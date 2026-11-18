@@ -1,6 +1,6 @@
 # In-Memory Limit Order Book & Matching Engine (Java 21)
 
-![Java 21 CI](https://github.com/danielstanculescu/limit-order-book/workflows/ci.yml/badge.svg)
+[![Java 21 CI](https://github.com/danielstanculescu/limit-order-book/actions/workflows/ci.yml/badge.svg)](https://github.com/danielstanculescu/limit-order-book/actions/workflows/ci.yml)
 
 A deterministic, low-latency **Limit Order Book and Price-Time Priority (FIFO) Matching Engine** built in pure **Java 21** with zero external runtime frameworks. Designed to model core electronic exchange mechanics—including price improvement, partial fills, multi-level sweeps, targeted cancellations, and event-driven audit publishing.
 
